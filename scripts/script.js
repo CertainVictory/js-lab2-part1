@@ -49,9 +49,9 @@ class Contact {
 
 
 const book = new AddressBook();
-book.add(new Contact("Snoopy", "dog@cool.com", "123", "my dog"));
-book.add(new Contact("Woodstock", "dog@cool.com", "123", "my dog"));
-book.add(new Contact("fucc", "dog@cool.com", "123", "my dog"));
+book.add(new Contact("Snoopy", "snoopy@cool.com", "3323", "Friend"));
+book.add(new Contact("Woodstock", "woodstock@cool.com", "123", "Aunt"));
+book.add(new Contact("Rob", "rob@cool.com", "122223", "Uncle"));
 
 
 
